@@ -1,0 +1,30 @@
+{
+  "name": "postcss-color-variable-shorthand",
+  "version": "0.1.0",
+  "description": "Expand color variables",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap --no-coverage test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhthorsen/postcss-color-variable-shorthand.git"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "inputs",
+    "color"
+  ],
+  "author": "Jan Henning Thorsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhthorsen/postcss-color-variable-shorthand/issues"
+  },
+  "homepage": "https://github.com/jhthorsen/postcss-color-variable-shorthand#readme"
+}
