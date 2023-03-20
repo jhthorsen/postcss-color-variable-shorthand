@@ -29,5 +29,9 @@
   "homepage": "https://github.com/jhthorsen/postcss-color-variable-shorthand#readme",
   "devDependencies": {
     "tap": "^16.3.4"
+  },
+  "dependencies": {
+    "color": "^4.2.3",
+    "postcss": "^8.4.21"
   }
 }
